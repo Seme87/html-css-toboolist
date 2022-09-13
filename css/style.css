@@ -1,0 +1,39 @@
+/* Reset */
+*{
+margin: 0px;
+padding: 0;
+box-sizing: border-box;
+}
+/* Reset */
+
+
+body{
+margin: auto;
+font-family: 'Roboto', sans-serif;
+background-color: #F6F8F9;
+}
+
+
+
+/* Prop Header */
+header{
+background-color: white;
+padding-left: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+header img{
+vertical-align: middle;
+}
+
+h1{
+display: inline-block;
+vertical-align: middle;
+}
+/* Prop Header */
+
+.conteiner{
+max-width: 800px;
+
+}
