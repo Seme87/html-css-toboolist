@@ -21,6 +21,7 @@ background-color: white;
 padding-left: 20px;
 padding-top: 10px;
 padding-bottom: 10px;
+margin-bottom: 50px;
 }
 
 header img{
@@ -35,5 +36,6 @@ vertical-align: middle;
 
 .conteiner{
 max-width: 800px;
+background-color: white;
 
 }
