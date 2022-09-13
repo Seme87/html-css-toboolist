@@ -3,6 +3,7 @@
 margin: 0px;
 padding: 0;
 box-sizing: border-box;
+
 }
 /* Reset */
 
@@ -11,6 +12,7 @@ body{
 margin: auto;
 font-family: 'Roboto', sans-serif;
 background-color: #F6F8F9;
+
 }
 
 
@@ -34,8 +36,33 @@ vertical-align: middle;
 }
 /* Prop Header */
 
-.conteiner{
+/* Prop Contenitore */
+.container{
 max-width: 800px;
 background-color: white;
+margin: auto;
+padding-left: 50px;
+}
+/* Prop Contenitore */
 
+.button{
+padding: 8px;
+margin-bottom: 1px;
+}
+
+#button-blue{
+background-color:#45ABEA ;
+color: white;
+padding: 5px;
+border-radius: 5px;
+border: white;
+
+}
+
+#button-white{
+background-color: white;
+color: lightgray;
+padding: 5px;
+border-radius: 5px;
+border: 1px solid lightgrey;
 }
