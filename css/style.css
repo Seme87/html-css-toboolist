@@ -44,10 +44,11 @@ padding-left: 50px;
 }
 /* Prop Contenitore */
 
-
+/* Sezione button */
 .button{
 padding: 10px;
-margin-bottom: 5px;
+
+margin-bottom: 30px;
 
 }
 
@@ -73,12 +74,47 @@ width: 100px;
 height: 30px;
 vertical-align: middle;
 }
+/* Sezione button */
+
+
+.first{
+margin-bottom: 20px;
+}
+
 
 h2{
 display: inline-block;
-
 }
 
 #triangolo{
 display: inline-block;
+}
+
+.entities{
+width: 20px;
+height: 20px;
+border: 1px solid #64C0A9;
+border-radius: 50%;
+color: #64C0A9;
+vertical-align: middle;
+text-align: center;
+display: inline-block;
+}
+
+.text{
+display: inline-block;
+font-weight: bold;
+vertical-align: middle;
+}
+
+.tag{
+height: 30px;
+width: 100px;
+background-color: #45ABEA;
+display: inline-block;
+vertical-align: middle;
+border-radius: 10px;
+padding-left: 10px;
+padding-right: 10px;
+color: #F6F8F9;
 }
