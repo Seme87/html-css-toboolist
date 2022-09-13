@@ -3,7 +3,6 @@
 margin: 0px;
 padding: 0;
 box-sizing: border-box;
-
 }
 /* Reset */
 
@@ -46,16 +45,19 @@ padding-left: 50px;
 /* Prop Contenitore */
 
 .button{
-padding: 8px;
+padding: px;
 margin-bottom: 1px;
+
 }
 
 #button-blue{
 background-color:#45ABEA ;
 color: white;
-padding: 5px;
+padding: 10px;
 border-radius: 5px;
 border: white;
+width: 100px;
+height: 30px;
 
 }
 
@@ -65,4 +67,6 @@ color: lightgray;
 padding: 5px;
 border-radius: 5px;
 border: 1px solid lightgrey;
+width: 100px;
+height: 30px;
 }
