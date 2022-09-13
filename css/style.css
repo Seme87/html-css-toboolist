@@ -44,9 +44,10 @@ padding-left: 50px;
 }
 /* Prop Contenitore */
 
+
 .button{
-padding: px;
-margin-bottom: 1px;
+padding: 10px;
+margin-bottom: 5px;
 
 }
 
@@ -58,15 +59,26 @@ border-radius: 5px;
 border: white;
 width: 100px;
 height: 30px;
+vertical-align: middle;
 
 }
 
 #button-white{
 background-color: white;
 color: lightgray;
-padding: 5px;
+padding: 10px;
 border-radius: 5px;
 border: 1px solid lightgrey;
 width: 100px;
 height: 30px;
+vertical-align: middle;
+}
+
+h2{
+display: inline-block;
+
+}
+
+#triangolo{
+display: inline-block;
 }
