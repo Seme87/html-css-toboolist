@@ -142,9 +142,7 @@ margin-right: 5px;
 p{
     margin-bottom: 20px;
 } 
-
 /* sezione New task */
-
 
 
 
@@ -171,3 +169,12 @@ p{
 
 
 
+/* sezione upcoming */
+#fucsia{
+    background-color:#D863A1 ;
+}
+
+#verde{
+    background-color:#B0C926 ;
+}
+/* sezione upcoming */
