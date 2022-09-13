@@ -110,13 +110,16 @@ margin-right: 5px;
 
 
 .tag{
-width: 200px;
-padding-left: 10px;
-padding-right: 10px;
-/* padding-top: 10px;
-padding-bottom: 10px; */
-font-size: 13px;
+width: 90px;
+padding: 5px;
+/* padding-left: 2px;
+padding-right: 2px;
+padding-top: 5px;
+padding-bottom: 5px; */
+text-align: center;
+font-size: 10px;
 background-color: #45ABEA;
 color: white;
-border-radius: 5px;
+border-radius:15px;
+display: inline-block;
 }
